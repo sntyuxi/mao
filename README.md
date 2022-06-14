@@ -1,4 +1,4 @@
-## 猫影视TV2.1.1 Beta6版
+## 猫影视Beta6版
 
 CatVodTV_v2.1.1.Beta6_20220611195846_c3e5165f_GV.apk
 
@@ -19,7 +19,7 @@ clan://localhost/根目录下文件夹/m.json
 >>>xpath/  
 >>>m.json  
 
-![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
+https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg
 ------------------
 
 打开猫影视—【设置】—【当前接口】添加
