@@ -1,4 +1,4 @@
-## 猫影视Beta6版
+## 搬运 https://github.com/liu673cn/mao 自用
 
 CatVodTV_v2.1.1.Beta6_20220611195846_c3e5165f_GV.apk
 
